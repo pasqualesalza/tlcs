@@ -1,6 +1,6 @@
 # On the Effectiveness of Transfer Learning for Code Search
 
-[![DOI](https://zenodo.org/badge/514598312.svg)](https://zenodo.org/badge/latestdoi/514598312)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6850307.svg)](https://doi.org/10.5281/zenodo.6850307)
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4311fc80-69ec-4107-9ed6-fae874b2d2b9/deploy-status)](https://app.netlify.com/sites/tl-codesearch/deploys)
 
