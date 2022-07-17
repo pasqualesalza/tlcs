@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite these metadata."
+title: "On the Effectiveness of Transfer Learning for Code Search: Replication Package"
+authors:
+  - family-names: "Salza"
+    given-names: "Pasquale"
+    orcid: "https://orcid.org/0000-0002-8687-052X"
+  - family-names: "Schwizer"
+    given-names: "Christoph"
+  - family-names: "Gu"
+    given-names: "Jian"
+  - family-names: "Gall"
+    given-names: "Harald C."
+    orcid: "https://orcid.org/0000-0002-3874-5628"
+
+version: 1.0.0
+date-released: 2022-07-22
+url: "https://github.com/pasqualesalza/tlcs"
+
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Salza"
+      given-names: "Pasquale"
+      orcid: "https://orcid.org/0000-0002-8687-052X"
+    - family-names: "Schwizer"
+      given-names: "Christoph"
+    - family-names: "Gu"
+      given-names: "Jian"
+    - family-names: "Gall"
+      given-names: "Harald C."
+      orcid: "https://orcid.org/0000-0002-3874-5628"
+  title: "On the Effectiveness of Transfer Learning for Code Search"
+  journal:
+    name: "IEEE Transactions on Software Engineering (TSE)"
+  year: 2022

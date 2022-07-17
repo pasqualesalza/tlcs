@@ -1,0 +1,7 @@
+{{$file := .Get "file"}}
+{{- if (.Get "markup") -}}
+{{- $optMarkup := dict "markup" (.Get "markup") -}}
+{{- $file  | readFile | $.Page.RenderString $optMarkup -}}
+{{- else -}}
+{{- $file  | readFile | $.Page.RenderString -}}
+{{- end -}}

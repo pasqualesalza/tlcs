@@ -1,0 +1,28 @@
+baseURL: /
+languageCode: en-us
+title: "On the Effectiveness of Transfer Learning for Code Search: Replication Package"
+theme: hugo-theme-learn
+
+outputs:
+  home:
+    - html
+    - rss
+    - json
+
+params:
+  author: "Pasquale Salza"
+  description: 'Replication package website for the paper "On the Effectiveness of Transfer Learning for Code Search"'
+  disableInlineCopyToClipBoard: true
+  disableMermaid: true
+  custom_css:
+    - "custom.css"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+minify:
+  tdewolff:
+    html:
+      keepWhitespace: true
